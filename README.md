@@ -3,6 +3,7 @@
 ## Project Name
 
 LocalSync - Offline local-network file sharing and shared clipboard.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3f7ae4ca-e02c-4055-827e-35c7018d38bd" />
 
 ## Problem Statement
 
