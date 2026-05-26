@@ -37,12 +37,9 @@ LocalSync exists to make private, offline, same-network transfer simple:
 - Windows helper scripts for one-click startup and optional custom protocol registration.
 
 ## Screenshots
-
-Add screenshots in `docs/screenshots/` and reference them here.
-
 | Dashboard | Mobile Connect |
 | --- | --- |
-| `docs/screenshots/dashboard.png` | `docs/screenshots/mobile-connect.png` |
+| ![Dashboard](https://github.com/user-attachments/assets/234b4004-3a6a-498e-8243-d2629828bd11) | ![Mobile Connect](https://github.com/user-attachments/assets/61c30245-5075-4855-b725-3f105ce41900) |
 
 ## Tech Stack
 
